@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 ### Added
+- New endpoint to update batch stories
 - New route to destroy batch stories.
 - Missing button titles in story component
 
